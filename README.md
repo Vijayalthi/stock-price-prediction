@@ -26,11 +26,13 @@ This project predicts future stock prices using historical stock data and machin
 ---
 ## Open notebooks in the order:
 
--`required_imports.ipynb`
--`data_collection.ipynb`
--`data_preprocessing.ipynb`
--`feature_scaling.ipynb`
--`data_splitting_scaling.ipynb`
--`model_scaling_and_training.ipynb`
--`model_evaluation.ipynb`
--`prediction.ipynb`
+- `required_imports.ipynb`
+- `data_collection.ipynb`
+- `data_preprocessing.ipynb`
+- `feature_scaling.ipynb`
+- `data_splitting_scaling.ipynb`
+- `model_scaling_and_training.ipynb`
+- `model_evaluation.ipynb`
+-  `prediction.ipynb`
+
+---
